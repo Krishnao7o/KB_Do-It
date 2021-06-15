@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KB_Do-It</string>
+    <string name="taskText">Tasks</string>
+    <string name="fabbtn"> + </string>
+    <string name="checkbox"> Done </string>
+    <string name="addTask"> Task </string>
+    <string name="newTaskButton"> Add </string>
+
+</resources>
